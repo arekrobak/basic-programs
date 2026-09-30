@@ -1,0 +1,1 @@
+A repository in which I keep the basic programs I write. They are useless programs meant to teach me programming and different aspects of different programming languages. Don't expect any fireworks here.
