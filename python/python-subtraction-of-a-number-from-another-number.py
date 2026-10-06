@@ -5,4 +5,4 @@ second_number = float(input("Provide a number to be subtracted from the first on
 
 result = first_number - second_number
 
-print(f"{first_number} - {second_number} = {result}")
+print(f"{first_number:g} - {second_number:g} = {result:g}")

@@ -1,4 +1,4 @@
-#A Python program that adds numbers 5 and 6 together and prints the entire calculation.
+# A Python program that adds numbers 5 and 6 together and prints the entire calculation.
 
 
 first_number = 5
